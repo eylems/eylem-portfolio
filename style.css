@@ -1,0 +1,33 @@
+
+nav.navbar.nav-bg {
+    background-color: rgb(45, 62, 80) !important;  }
+
+div.avatar-container {
+    background-color: rgb(27, 188, 155)!important ;
+ }
+ .page-section-heading {
+    font-size: 3rem;
+    color: rgb(41, 61, 78);
+    font-weight: 600;
+ }
+ .about-container {
+    background-color:rgb(27, 188, 155) !important ;
+ }
+ footer {
+    background-color: rgb(45, 62, 80) !important;
+ }
+ a {
+    color:rgb(249, 252, 251) !important ;
+ }
+ a.special-hover:hover {
+    color: rgb(42, 129, 112) !important;
+ }
+ div.copyright {
+    color: rgb(201, 209, 211) !important;
+ }
+a.special-hover {
+    color:rgb(27, 188, 155) !important ;
+}
+h2, p, h1, div {
+   font-family: Georgia, serif !important;
+}
